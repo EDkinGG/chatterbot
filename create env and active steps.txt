@@ -1,0 +1,9 @@
+step 1:
+cmd>> py -0 # to check installed python versions in the system
+step 2:
+cmd>> py -3.7 -m venv venv # creating environment using python 3.7
+step 3:
+ i.  press ctrl+shift+p
+ ii. search python: select python interpreter
+ iii. select enev 3.7
+step 4:venv\Scripts\activate  
